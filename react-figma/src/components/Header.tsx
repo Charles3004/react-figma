@@ -32,7 +32,7 @@ const Header = () => {
           <button className="icon-text">📞 (804) 6623 - 9999</button>
 
           <button className="icon-text">
-            ✉️ supportoursmallbusiness@g.com
+            ✉️ supportoursmallbusiness@gmail.com
           </button>
         </div>
 
